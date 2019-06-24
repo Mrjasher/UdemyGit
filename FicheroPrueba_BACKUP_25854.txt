@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+FicheroPrueba
+=======
+Cambio en el FicheroPrueba
+
+
+Eliminamos todo el contenido corrupto en el hotfix
+
+Entrara este hoftix??
+
+Subira este fichero?
+>>>>>>> 5838617a46895c4bc5d0a3554edf7b5871a317d4
